@@ -1,0 +1,7 @@
+name: OnePieceFruits
+main: OnePiece\Fruits\Main
+version: 1.0.0
+api: [1.0.0]
+author: Rik#4445
+description: Advanced Devil Fruit Systems for MCPE 0.14.3
+depend: [OnePieceCombat, OnePieceStats, OnePieceDevil, OnePieceHaki]
